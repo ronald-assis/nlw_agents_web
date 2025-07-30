@@ -778,13 +778,5 @@
     "clientKind": "git",
     "useIgnoreFile": true,
     "defaultBranch": "main"
-  },
-  "extends":,
-  "grit":,
-  "plugins":,
-  "root":,
-  "files":,
-  "html":,
-  "overrides":,
-  "graphql":
+  }
 }
